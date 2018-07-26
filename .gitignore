@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Guess_the_number.py
